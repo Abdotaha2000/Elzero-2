@@ -202,8 +202,9 @@ header nav .form i{
 }
 @media (max-width:767px) {
     .landing .overlay .text{
-        width: 100%;
+        width: fit-content;
         margin-top: 25px;
+        padding: 10px;
     }
     .landing .overlay .text .content{
         max-width: 100%;
